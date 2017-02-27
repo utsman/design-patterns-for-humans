@@ -1,0 +1,27 @@
+rootProject.name = 'java'
+
+include "creational:abstract-factory"
+include "creational:builder"
+include "creational:factory-method"
+include "creational:prototype"
+include "creational:singleton"
+include "creational:simple-factory"
+
+include "structural:adapter"
+include "structural:bridge"
+include "structural:composite"
+include "structural:decorator"
+include "structural:facade"
+include "structural:flyweight"
+include "structural:proxy"
+
+include "behavioral:chain-of-responsibility"
+include "behavioral:command"
+include "behavioral:iterator"
+include "behavioral:mediator"
+include "behavioral:memento"
+include "behavioral:observer"
+include "behavioral:state"
+include "behavioral:strategy"
+include "behavioral:template-method"
+include "behavioral:visitor"
